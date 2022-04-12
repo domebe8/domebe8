@@ -1,4 +1,5 @@
 ### Hi there 👋
+我。この文章を。最果てに送る。
 
 <!--
 **domebe8/domebe8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
